@@ -14,18 +14,12 @@ public class Ejercicio04 {
         
         // Imprimir las filas de cada hora
         System.out.printf("%-8s %-15s %-15s %-15s %-15s %-15s%n", 
-                          "8:15", "Programación", "Sistemas", "Programación", "Sistemas", "Programación");
+                          "8:30", "DSD", "REDES", "REDES", "DSD", "REDES");
         System.out.printf("%-8s %-15s %-15s %-15s %-15s %-15s%n", 
-                          "9:15", "Programación", "Sistemas", "Programación", "Sistemas", "Programación");
+                          "10:30", "WEB", "ADS", "WEB", "WEB", "DSD");
         System.out.printf("%-8s %-15s %-15s %-15s %-15s %-15s%n", 
-                          "10:15", "Fol", "Fol", "Fol", "Fol", "Sistemas");
-        System.out.printf("%-8s %-15s %-15s %-15s %-15s %-15s%n", 
-                          "11:45", "Sistemas", "Programación", "Sistemas", "Programación", "Sistemas");
-        System.out.printf("%-8s %-15s %-15s %-15s %-15s %-15s%n", 
-                          "12:45", "Sistemas", "Programación", "Sistemas", "Programación", "Sistemas");
-        System.out.printf("%-8s %-15s %-15s %-15s %-15s %-15s%n", 
-                          "13:45", "BBDD", "L. Marcas", "BBDD", "L. Marcas", "BBDD");
-        
+                          "12:00", "ADS", "AVANZ", "AVANZ", "ADS", "AVANZ");    
         System.out.println("-----------------------------------------------------------------------------------");
     }
+
 }
