@@ -1,8 +1,6 @@
 /*
- * 
  * Ejercicio 1
- * Escribe una programa que muestre tu nombre por pantalla.
- * 
+ * Escribe una programa que muestre tu nombre por pantalla. 
  */
 
 public class Ejercicio01
