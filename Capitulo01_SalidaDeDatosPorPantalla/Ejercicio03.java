@@ -14,7 +14,6 @@
  * green verde
  * book libro
  * pyramid pirámid
- * 
 */
 
 public class Ejercicio03
